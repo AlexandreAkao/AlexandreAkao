@@ -11,7 +11,7 @@ Hi i'm Alexandre, from Brazil. I'm a student Bachelors's in Computer Science �
 ### More about me...
 
 - 🔭 I’m currently working on Node.js, Express.js, React, MongoDB, etc 💻.
-- 💻 I have worked on C, C++, Java, Python, HTML/CSS, Javascript, Typescriot, React, Angular, Nodejs, Expressjs, MySQL, Postgres, MongoDB, Git, Docker, etc.
+- 💻 I have worked on HTML/CSS, Javascript, Typescriot, React, Angular, Nodejs, Expressjs, Java, Python, MySQL, Postgres, MongoDB, Git, Docker, C, C++, etc.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=alexandreakao&show_icons=true&hide_border=true)
 
