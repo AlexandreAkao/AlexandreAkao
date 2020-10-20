@@ -14,6 +14,7 @@ Hi i'm Alexandre, from Brazil. I'm a student Bachelors's in Computer Science ðŸŽ
 - ðŸ’» I have worked on HTML/CSS, Javascript, Typescriot, React, Angular, Nodejs, Expressjs, Java, Python, MySQL, Postgres, MongoDB, Git, Docker, C, C++, etc.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=alexandreakao&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreakao&layout=compact&langs_count=10)
 
 ### Languages and Tools:
 
