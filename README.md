@@ -6,12 +6,12 @@
 
 <br />
 
-Hi i'm Alexandre, from Brazil. I'm a student Bachelors's in Computer Science 🎓 from Unifor 🏛.. I love to explore new technologies ✨. I'm currently Fullstack developer 🕸️.
+Hi i'm Alexandre, from Brazil. I'm a student Bachelors's in Computer Science 🎓 from Unifor 🏛. I love to explore new technologies ✨. I'm currently Fullstack developer 🕸️.
 
 ### More about me...
 
 - 🔭 I’m currently working on Node.js, Express.js, React, MongoDB, etc 💻.
-- 💻 I have worked on HTML/CSS, Javascript, Typescriot, React, Angular, Nodejs, Expressjs, Java, Python, MySQL, Postgres, MongoDB, Git, Docker, C, C++, etc.
+- 💻 I have worked on HTML/CSS, Javascript, Typescript, React, Angular, Nodejs, Express.js, Java, Python, MySQL, Postgres, MongoDB, Git, Docker, C, C++, etc.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=alexandreakao&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreakao&layout=compact&langs_count=10)
