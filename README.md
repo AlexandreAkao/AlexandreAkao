@@ -1,7 +1,7 @@
 ## Hi I'm Alexandre <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-akao-aa6270163/)
-[<img src="https://img.shields.io/github/followers/alexandreakao?label=follow&style=social" height="22" title="Follow me" />](https://github.com/milenacarecho) 
+[<img src="https://img.shields.io/github/followers/alexandreakao?label=follow&style=social" height="22" title="Follow me" />](https://github.com/alexandreakao) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alexandreakiraakao@gmail.com)
 
 <br />
