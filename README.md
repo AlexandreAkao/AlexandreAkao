@@ -1,4 +1,4 @@
-## Hi I'm Alexandre <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="1px"></h2>
+## Hi I'm Alexandre <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-akao-aa6270163/)
 [<img src="https://img.shields.io/github/followers/alexandreakao?label=follow&style=social" height="22" title="Follow me" />](https://github.com/alexandreakao) 
