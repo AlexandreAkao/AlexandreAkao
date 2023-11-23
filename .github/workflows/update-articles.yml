@@ -13,7 +13,7 @@ jobs:
               uses: huantt/article-listing@v1.1.0
               with:
                 username: alexandreakira            
-                template-file: 'README.md.template'
+                template-file: 'README.md.tpl'
                 out-file: 'README.md'
                 limit: 5
             - name: Commit
