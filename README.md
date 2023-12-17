@@ -26,11 +26,11 @@ Hi i'm Alexandre, bachelor of Computer Science. I love to explore new technologi
 
 <div align="center">
   <a href="http://www.github.com/AlexandreAkao">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlexandreAkao&include_all_commits=true&hide_rank=true&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917" alt="AlexandreAkao's GitHub stats" height="250"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexandreAkao&include_all_commits=true&hide_rank=true&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917" alt="AlexandreAkao's GitHub stats" height="200"/>
   </a>
   
   <a href="https://github.com/AlexandreAkao" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAkao&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&card_width=400&locale=en&layout=compact&custom_title=Top%20%Languages" alt="Top Languages" height="250"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAkao&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&card_width=400&locale=en&layout=compact&custom_title=Top%20%Languages" alt="Top Languages" height="200"/>
   </a>
 </div>
 
