@@ -2,7 +2,7 @@
 
 ## Software Developer | React | .NET | TypeScript
 
-Hi i'm Alexandre, bachelor of Computer Science. I love to explore new technologies and face new challenges. Focused on backend (\`Node & .NET\`) and frontend (\`React\`) development.
+Hi i'm Alexandre, bachelor of Computer Science. I love to explore new technologies and face new challenges. Focused on backend (`Node & .NET`) and frontend (`React`) development.
 
 * 🌍  I'm based in Brazil, Fortaleza
 * ✉️  You can contact me at [alexandreakiraakao@gmail.com](mailto:alexandreakiraakao@gmail.com)
