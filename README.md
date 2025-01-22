@@ -40,7 +40,7 @@ Hi i'm Alexandre, bachelor of Computer Science. I love to explore new technologi
   <tr>
       <td width="300px">
           <a href="https://dev.to/alexandreakira/es6-es7-es8-espera-que-funcionalidade-e-essa-26am">
-              <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1670845/thumbnail" alt="thumbnail">
+              <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffbngw2u8eg8mfgscf1mm.png" alt="thumbnail">
           </a>
       </td>
       <td>
