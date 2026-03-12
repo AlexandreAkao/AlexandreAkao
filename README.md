@@ -2,12 +2,12 @@
 
 ## Senior Software Engineer | React | .NET | TypeScript
 
-Hi i'm Alexandre, bachelor of Computer Science. I love to explore new technologies and face new challenges. Focused on backend (`Node & .NET`) and frontend (`React`) development.
+Hi, I'm Alexandre, a Bachelor of Computer Science. I love exploring new technologies and facing new challenges. Focused on backend (`Node & .NET`) and frontend (`React`) development.
 
 * 🌍  I'm based in Brazil, Fortaleza
 * ✉️  You can contact me at [alexandreakiraakao@gmail.com](mailto:alexandreakiraakao@gmail.com)
-* 🧠  I'm learning design pattern deeply
-* 🤝  I'm open to collaborating on any projects with Node, React and .NET
+* 🧠  I'm learning system design deeply
+* 🤝  I'm open to collaborating on any projects with Node, React, and .NET
 * ⚡  Trying to start writing more articles
 
 ### Skills
